@@ -37,3 +37,4 @@ void *runner(void *param){
     }
     pthread_exit(0);
 }
+\\2.5) 2case
